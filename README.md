@@ -1,3 +1,4 @@
+### Argument splitter français
 Cette fonction permet de diviser automatiquement un texte français en phrases verbales distinctes. Une phrase verbale contient un sujet et un verbe conjugué et représente une action ou un argument unique. Les phrases complexes contiennent souvent plusieurs phrases verbales, les séparer permet donc d'identifier des unités de sens.
 
 La fonction repose sur une liste de symboles de ponctuation et de connecteurs logiques utilisés en français. Le plus souvent, les phrases verbales sont articulées via la ponctuation et les connecteurs.
